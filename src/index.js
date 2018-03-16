@@ -19,5 +19,4 @@ ReactDOM.render(
     document.getElementById('root')
 );
 
-    document.getElementById('root')
-);
+    
