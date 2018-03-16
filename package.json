@@ -1,21 +1,22 @@
 {
-  "name": "react_starter",
+  "name": "react_demo",
   "version": "1.0.0",
-  "description": "Starting setup for react redux project",
+  "description": "Repo for learning React",
   "main": "index.js",
   "scripts": {
     "start": "node dev_server.js",
     "bundle": "webpack --config webpack.prod.js --progress",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Scott Bowler",
+  "author": "Ryan Soto",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Learning-Fuze/react_starter.git"
+    "url": "https://github.com/rsoto003/react_demo.git"
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0",
+    "npm": "^5.7.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-redux": "^5.0.7",
